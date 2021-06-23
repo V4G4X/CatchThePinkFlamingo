@@ -5,17 +5,17 @@ Our **Goal** is to build a Decision Tree to predict if an unknown user would be 
 Then study the built Decision Tree to see what factors predict if a User will drive **Revenues**.
 
 ## Steps:
- 1. [Data Preparation Fill Link]():  
+ 1. [Data Preparation](1%20Data%20Preparation.pdf):  
    Binning ```avg_price``` into 2 categories and selecting attributes for Classification.
 
- 2. [Modelling Decision Tree Fill Link]():  
+ 2. [Modelling Decision Tree](2%20Partitioning%20and%20Modeling.pdf):  
    Splitting our Dataset into Test and Train Dataset.  
    And building the decision tree. 
 
- 3. [Evaluation Fill Link]():  
+ 3. [Evaluation](3%20Evaluation.pdf):  
    Evaluate the accuracy and Confusion Matrix of the Tree.
 
- 4. [Conclusion Fill Link]():  
+ 4. [Conclusion](4%20Conclusions.pdf):  
    Takes a broader look at the workflow and provides Recommendations to increase Revenue.
 
 ![Decision Tree](Decision%20Tree.png)
