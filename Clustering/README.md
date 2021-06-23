@@ -18,5 +18,8 @@ This provides us managable bites/goals for us to market to our users.
    Provides Recommendations to increase Revenue.
 
 ## Working
-This [Jupyter Notebook](Clustering.ipynb) contains all the working done above, step by step.  
-From reading files, to wrangling and joining, to normalising dataset and finally Clustering.
+This [Jupyter Notebook](Clustering.ipynb) contains all the working done above, step by step.    
+From reading files, to wrangling and joining, to normalising dataset and finally Clustering.  
+
+**Note:** This Notebook requries a Scala Kernel to run AND also needs the Apache Spark Libraries to be available to said Kernel.  
+[Apache Toree](https://toree.apache.org/) recommended.
