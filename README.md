@@ -1,7 +1,7 @@
  # Catch The Pink Flamingo
-An Analytics Project uses several **Big Data** tools and techniques on Catch The Pink Flamingo's (A **fictional** game) data to report insights to drive up revenues of Eglence Inc (A **fictional** company).  
+An Analytics Project that uses several **Big Data** tools and techniques on Catch The Pink Flamingo's (A **fictional** game) data to report insights to drive up revenues of Eglence Inc (A **fictional** company).  
 
-## [Game Breakdown](Game_Description.pdf)
+## [Game Breakdown & Explanation](Game_Description.pdf)
 
 ## Tools used
 |      Tools      |              Goals               |
